@@ -1,0 +1,22 @@
+---
+title: "BiocChallengesTemplate"
+author:
+- name: Kevin Rue-Albrecht
+  affiliation: University of Oxford
+  email: kevinrue67@gmail.com
+package: BiocChallenges
+output:
+  BiocStyle::html_document
+abstract: |
+  Thematic challenges for the Biocoductor community.
+vignette: |
+  %\VignetteIndexEntry{Getting Started}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Welcome
+
+The goal of <i class="fab fa-github"></i> `r BiocStyle::Githubpkg("kevinrue/BiocChallengesTemplate")` is to provide a template for repositories that extend `r BiocStyle::Githubpkg("kevinrue/BiocChallenges")` and host thematic challenges contributed by and for the Bioconductor community.
+
+More information is available in the `r BiocStyle::Githubpkg("kevinrue/BiocChallenges")` repository.

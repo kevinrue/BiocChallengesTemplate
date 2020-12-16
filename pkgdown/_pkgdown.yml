@@ -1,0 +1,7 @@
+articles:
+- title: Getting Started
+  contents: BiocChallengesTemplate
+- title: Active challenges
+  navbar: ~
+  contents:
+  - starts_with("challenges")

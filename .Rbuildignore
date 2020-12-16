@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^BiocChallengesTemplate\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^LICENSE\.md$
+^docs$
+^codecov\.yml$
+^pkgdown$
