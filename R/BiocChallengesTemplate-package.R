@@ -6,3 +6,7 @@
 ## usethis namespace: start
 ## usethis namespace: end
 NULL
+
+.example_function <- function() {
+    NULL
+}

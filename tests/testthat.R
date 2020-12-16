@@ -1,4 +1,4 @@
 library(testthat)
-library(BiocChallenges)
+library(BiocChallengesTemplate)
 
-test_check("BiocChallenges")
+test_check("BiocChallengesTemplate")
